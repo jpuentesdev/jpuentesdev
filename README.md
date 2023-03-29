@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 👱 My GitHub profile :
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 👨‍🚀 My GitHub profile :
 🔭 I'm a spanish developer<br>🌱 I'm currently learning<br>📈 Focused on improving by doing projects
 
 # 💻 Tech Stack:
