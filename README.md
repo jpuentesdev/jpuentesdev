@@ -21,6 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jpuentesdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![giphy (1)](https://user-images.githubusercontent.com/117676762/228615051-3c50d6da-5c4b-44f2-8f73-12eb5161cee6.gif)
 
-![giphy (1)](https://user-images.githubusercontent.com/117676762/228614874-63c5a1b4-63c4-41fe-8d28-f69e839c6bb8.gif)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
