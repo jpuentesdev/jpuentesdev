@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👱🏻‍♂️ My GitHub profile:
 🔭 I'm a web developer<br>🌱 I'm currently learning<br>📈 Focused on improving by doing projects
 
 # 💻 Tech Stack:
