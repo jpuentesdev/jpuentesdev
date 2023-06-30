@@ -15,10 +15,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jpuentesdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=jpuentesdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![giphy (1)](https://user-images.githubusercontent.com/117676762/228615051-3c50d6da-5c4b-44f2-8f73-12eb5161cee6.gif)
