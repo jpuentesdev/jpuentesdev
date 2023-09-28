@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 👨‍🚀 Welcome to my GitHub profile:
-🔭 Spanish developer<br>🎨 Creative development lover<br>📈 Focused on improving by doing projects
+🔭 Spanish Web Developer<br>🎨 Creative Development Lover<br>📈 Focused on Improving by Doing Projects
 
 ![giphy](https://user-images.githubusercontent.com/117676762/228602119-171acb86-c7d7-4252-9af0-b0fecc37a21c.gif)
 
